@@ -53,3 +53,5 @@ gem "jwt", "~> 2.2"
 gem "simple_command", "~> 0.1.0"
 
 gem "pg", "~> 1.2"
+
+gem "rack-cors", "~> 1.1"
